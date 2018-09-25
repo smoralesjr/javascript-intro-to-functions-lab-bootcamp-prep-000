@@ -1,0 +1,4 @@
+const should = function (string){
+  
+  
+}
