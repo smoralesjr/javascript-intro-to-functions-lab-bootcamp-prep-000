@@ -5,3 +5,7 @@ const shout = function (string){
 const whisper = function (string){
   return string.toLowerCase();
 }
+
+const logShout = function (string) {
+  console.log(string.toUpperCase);
+}
