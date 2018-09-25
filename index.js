@@ -16,5 +16,7 @@ const logWhisper = function (string) {
 
 const sayHiToGrandma = function (string){
   
-  
+  if (string === lowercase){
+    
+  }
 }
