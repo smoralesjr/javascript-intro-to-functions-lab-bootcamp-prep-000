@@ -1,4 +1,4 @@
 const should = function (string){
   
-  return string.to
+  return string.toUpperCase;
 }
