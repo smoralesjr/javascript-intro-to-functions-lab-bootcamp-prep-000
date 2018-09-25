@@ -1,4 +1,4 @@
-const should = function (string){
+const shout = function (string){
   string = string.toUpperCase();
   return string;
 }
